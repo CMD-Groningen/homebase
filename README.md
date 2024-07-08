@@ -16,7 +16,7 @@ De tutorials en code voorbeelden moeten goed en snel te vinden zijn. Dus makkeli
 
 ## Requirements voor repositories
 
-Zowel docenten als studenten moeten makkelijk toegang hebben tot het archief. Tutorials/code voorbeelden zijn te filteren op vak afkorting en op onderwerp (bijvoorbeeld DIO, INI, USO of animaties of EventListeners) Elke repo (lees tutorial of code voorbeeld) moet snel en simpel aan te maken zijn op basis van een voorbeeldstramien (een README.md met uitleg, code voorbeelden in kleur en automatisch browservoorbeeld in geval van HTML code voorbeeld met CSS en JS. Er moet een directe ZIP link zijn om de hele repo (tutorial) te downloaden als ZIP buiten Github (voor Blackboard of email)
+Zowel docenten als studenten moeten makkelijk toegang hebben tot het archief. Tutorials/code voorbeelden zijn te filteren op vak afkorting en op onderwerp (bijvoorbeeld DIO, INI, USO of animaties of EventListeners) Elke repo (lees tutorial of code voorbeeld) moet snel en simpel aan te maken zijn op basis van een voorbeeldstramien (een README.md met uitleg, code voorbeelden in kleur en automatisch browservoorbeeld in geval van HTML code voorbeeld met CSS en JS. Er moet een directe ZIP link zijn om de hele repo (tutorial) te downloaden als ZIP buiten Github om (voor Blackboard en email)
 
 
 <hr>
