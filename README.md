@@ -4,6 +4,8 @@
 
 <a href="https://cmd-groningen.github.io/homebase"><img src="https://github.com/CMD-Groningen/homebase/blob/main/images/naar-archief.svg" style="width:360px"></a>
 
+Vorige versie, [versie 1](https://cmd-groningen.github.io/homebase/index_thumbnails)
+
 ## CMD HomeBase voor studenten
 
 De student heeft behoefte aan educatief materiaal met oefeningen en praktische code voorbeelden die specifiek toegespitst zijn op lessen die gevolgd worden. Waarin aangeleerde basisprincipes terug te zien zijn, die de student als referentie kan gebruiken voor verdere toepassing. Het is dus anders dan ChatGPT of YouTube raadplegen wat meer aanvullend is. De tutorials van HomeBase zijn praktisch en vooral toegespitst op datgene wat aangeleerd wordt tijdens de lessen.
