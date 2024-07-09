@@ -1,6 +1,6 @@
 <img src="https://github.com/CMD-Groningen/.github/blob/main/homebase-logo.svg" style="width:600px">
 
-## Een centrale plek op Github <br> waar educatief materiaal beheerd <br>en gearchiveerd wordt voor de<br> technieklessen van CMD.
+## De centrale plek op Github <br> waar educatief materiaal beheerd <br>en gearchiveerd wordt voor de<br> technieklessen van CMD.
 
 <a href="https://cmd-groningen.github.io/homebase"><img src="https://github.com/CMD-Groningen/homebase/blob/main/images/naar-archief.svg" style="width:360px"></a>
 
@@ -20,7 +20,7 @@ De tutorials of code voorbeelden moeten praktisch zijn, didactisch goed gemaakt 
 
 > De content vloeit voort uit ervaring en inzicht van de docenten, opgedaan aan de hand van het onderwijs curriculum, en is gericht op educatieve begeleiding van de studenten binnen dit curriculum.
 
-## Requirements voor HomeBase in Github als distributie platform
+## Requirements voor HomeBase in Github als beheerplatform
 
 De tutorials en code voorbeelden moeten goed en snel te vinden zijn. De tutorials en voorbeelden moeten makkelijk aan te maken zijn door de docenten, en makkelijk te raadplegen en te downloaden zijn door studenten. Zowel docenten als studenten moeten makkelijk toegang hebben tot het archief. Tutorials/code voorbeelden zijn te filteren op CMD vak afkorting (courses) en op onderwerp (bijvoorbeeld zoeken op DIO, INI, USO of animaties of EventListeners) 
 
