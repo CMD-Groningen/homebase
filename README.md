@@ -3,7 +3,7 @@
 ## Een centrale plek op Github <br> waar educatief materiaal beheerd <br>en gearchiveerd wordt voor de<br> technieklessen van CMD.
 
 Klik op de link om naar het archief van de tutorials en code voorbeelden te gaan!
-https://cmd-groningen.github.io/homebase/
+[https://cmd-groningen.github.io/homebase/](https://github.com/CMD-Groningen/homebase)
 
 ## CMD HomeBase voor studenten
 
