@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 285.34 88.16">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-3 {
+        font-size: 26px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+        font-family: Sora-Bold, Sora;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-size: 12px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-8 {
+        fill: #231f20;
+      }
+
+      .cls-8, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-9 {
+        fill: #f37421;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-9" x="58.13" width="227.21" height="79.5" rx="14.63" ry="14.63"/>
+    <text class="cls-4" transform="translate(97.93 48.7)"><tspan class="cls-2" x="0" y="0">T</tspan><tspan x="6.9" y="0">u</tspan><tspan class="cls-5" x="14.64" y="0">t</tspan><tspan x="19.82" y="0">orials en code </tspan><tspan class="cls-7" x="0" y="14.4">v</tspan><tspan x="7.01" y="14.4">oorbeelden</tspan></text>
+    <text class="cls-3" transform="translate(97.93 31.86)"><tspan x="0" y="0">Naar a</tspan><tspan class="cls-1" x="85.51" y="0">r</tspan><tspan class="cls-6" x="96.38" y="0">chief</tspan></text>
+    <g>
+      <path class="cls-8" d="m26.52,36.73L0,24.21v-7.88L29.45,2.5l-1.78,9.12-17.27,8.67,17.86,7.61-1.74,8.84Z"/>
+      <path class="cls-8" d="m35.43,11.62h4.85l-8.59,40.24h-4.8l8.54-40.24Z"/>
+      <path class="cls-8" d="m48.7,11.62h4.85l-8.59,40.24h-4.8l8.54-40.24Z"/>
+      <path class="cls-8" d="m52.03,48.82l16.12-7.07-16.12-7.07,1.56-8.18,24.96,11.29v7.88l-28.96,13.1,2.44-9.95Z"/>
+    </g>
+  </g>
+</svg>
