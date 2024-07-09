@@ -10,7 +10,7 @@ Vorige versie, [versie 1](https://cmd-groningen.github.io/homebase/index_thumbna
 
 De student heeft behoefte aan educatief materiaal met oefeningen en praktische code voorbeelden die specifiek toegespitst zijn op lessen die gevolgd worden. Waarin aangeleerde basisprincipes terug te zien zijn, die de student als referentie kan gebruiken voor verdere toepassing. Het is dus anders dan ChatGPT of YouTube raadplegen wat meer aanvullend is. De tutorials van HomeBase zijn praktisch en vooral toegespitst op datgene wat aangeleerd wordt tijdens de lessen.
 
-## Voor docenten
+## CMD HomeBase voor docenten
 
 De docenten willen een centrale plek, los van Blackboard en onder eigen beheer, waar overzichtelijk al het educatieve materiaal voor de technieklessen van de vakken terug te vinden zijn. Je kunt op trefwoorden of op vaknaam het archief doorzoeken. Tutorials en code voorbeelden kunnen helder en efficiënt worden opgebouwd en gedistribueerd. Er is een “single source of truth” en het archief kan makkelijk gearchiveerd worden en verder doorgroeien en geüpdatet worden.
 
@@ -32,10 +32,11 @@ De tutorials en code voorbeelden moeten goed en snel te vinden zijn. De tutorial
 **David van den Bor** <br>
 Curator/Moderator
 
+<img src="https://github.com/CMD-Groningen/.github/blob/main/davidvandenbor-rond.png" style="width:130px">
+
 #### Docent @ Instituut voor Communicatie, Media & Design <br> Art director / Frontend Developer @ Studio VandenBor
 www.davidvandenbor.nl <br>
 https://github.com/davidvandenbor <br>
-https://www.linkedin.com/in/davidvdbor/
-
-
-<img src="https://github.com/CMD-Groningen/.github/blob/main/davidvandenbor-rond.png" style="width:130px">
+https://www.linkedin.com/in/davidvdbor <br>
+https://github.com/CMD-Groningen <br><br>
+<img src="https://github.com/CMD-Groningen/.github/blob/main/hanze-logo.svg" style="width:180px">
