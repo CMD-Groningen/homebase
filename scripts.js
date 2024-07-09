@@ -1,4 +1,4 @@
-fetch("https://api.github.com/users/davidvandenbor/repos?sort=created&direction=dsc")
+fetch("https://api.github.com/users/CMD-Groningen/repos?sort=created&direction=dsc")
 	.then((resp) => resp.json())
 	.then((resp) => {
 		for (let repo of resp) {
