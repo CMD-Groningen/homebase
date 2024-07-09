@@ -20,7 +20,7 @@ De tutorials of code voorbeelden moeten praktisch zijn, didactisch goed gemaakt 
 
 > De content vloeit voort uit ervaring en inzicht van de docenten, opgedaan aan de hand van het onderwijs curriculum, en is gericht op educatieve begeleiding van de studenten binnen dit curriculum.
 
-## Requirements voor opbouw in Github als aanmaakplatvorm en distributiekanaal
+## Requirements voor HomeBase in Github als distributie platform
 
 De tutorials en code voorbeelden moeten goed en snel te vinden zijn. De tutorials en voorbeelden moeten makkelijk aan te maken zijn door de docenten, en makkelijk te raadplegen en te downloaden zijn door studenten. Zowel docenten als studenten moeten makkelijk toegang hebben tot het archief. Tutorials/code voorbeelden zijn te filteren op CMD vak afkorting (courses) en op onderwerp (bijvoorbeeld zoeken op DIO, INI, USO of animaties of EventListeners) 
 
