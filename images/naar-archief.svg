@@ -4,10 +4,10 @@
 			<style>
 				@keyframes rotate {
 					0% {
-						transform: rotate(3deg);
+						transform: rotate(3deg)translateX(-20px);
 					}
 					100% {
-						transform: rotate(-3deg);
+						transform: rotate(-3deg) translateX(20px);
 					}
 				}
 
@@ -23,6 +23,7 @@
 					}
 				}
 				.container {
+				padding-left:20px;
 					font-family:
 						system-ui,
 						-apple-system,
