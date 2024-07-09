@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Playground repository list</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <section class="intro">
+
+    <article>
+
+      <img src="images/homebase-logo.svg" alt="">
+
+      <h1>Tutorial archief <br> en code voorbeelden
+      </h1>
+      <strong>CMD Homebase</strong> is de plek op Github waar educatief materiaal en code voorbeelden beheerd en gearchiveerd wordt voor de technieklessen van CMD. De tutorials en voorbeelden zijn praktisch en toegespitst op datgene wat aangeleerd wordt tijdens de lessen, en kunnen als referentie of uitgangspunt gebruikt worden door studenten die verder op de technieken willen bouwen. Homebase is een initiatief van
+      <a href="https://github.com/CMD-Groningen" target="_blank">CMD op Github</a>
+    </article>
+    <section class="search-function"> Zoek op Trefwoord <input type="text" id="myInput" onkeyup="zoekfilter()" placeholder="Trefwoord.." title="Trefwoord typen"></section>
+    <section class="search-function"> Zoek op vakcode<input type="text" id="myInputCourse" onkeyup="zoekfilterCourse()" placeholder="Course lettercode.." title="Afkorting course"></section>
+  </section>
+
+  <main>
+    <div class="repo--js" id="repositories">
+    </div>
+  </main>
+  <script src="scripts.js"></script>
+</body>
+
+</html>

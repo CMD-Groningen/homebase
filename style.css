@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+:root {
+	--huisstijlkleur: rgba(243, 116, 33, 1.0);
+}
+
+html {
+	font-size: 14px;
+	font-family: "Open Sans", sans-serif;
+	line-height: 1.5;
+	font-weight: 400;
+	/* background: radial-gradient(rgb(255, 255, 255), rgb(222, 227, 229)); */
+}
+
+h1 {
+	color: var(--huisstijlkleur);
+	font-size: 2.5rem;
+	line-height: 1;
+	margin-bottom: 1rem;
+	font-weight: 700;
+	letter-spacing: -1px;
+	margin-top: -25px;
+	margin-bottom: 30px;
+	margin-left: 150px;
+}
+
+.intro {
+	padding: 20px;
+	max-width: 600px;
+	margin: auto
+}
+
+.intro a {
+	color: var(--huisstijlkleur);
+}
+
+a {
+	color: var(--huisstijlkleur);
+}
+
+.search-function {
+	margin-top: 1rem;
+	font-weight: bold;
+	font-size: 1.3rem;
+	text-transform: uppercase;
+	grid-column-start: 2;
+	background: rgb(255, 233, 208);
+	padding: 10px 30px 20px 30px;
+	color: rgb(217, 87, 0);
+	;
+	max-width: 370px;
+	text-align: right;
+}
+
+.search-function input {
+	margin-left: 1rem;
+	margin-top: 1rem;
+	padding: 0.5rem;
+	border: none;
+}
+
+.repo--js {
+	display: grid;
+	padding: 0 5vw;
+	gap: 0;
+	/* grid-template-columns: repeat(auto-fill, minmax(600px, 1fr)); */
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+@media (max-width: 1300px) {
+	.repo--js {
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+}
+
+@media (max-width: 1000px) {
+	.repo--js {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+@media (max-width: 800px) {
+	.repo--js {
+		grid-template-columns: 1fr;
+	}
+}
+
+iframe {
+	border: none;
+	background: white;
+	box-shadow: 10px 10px 35px #00000054;
+	width: 100%;
+	height: 300px;
+}
+
+ul:nth-child(odd) {
+	transform: rotate(2deg);
+}
+
+ul:nth-child(even) {
+	transform: rotate(-2deg);
+}
+
+.project {
+	/* background: white; */
+	padding: 3rem 3rem;
+	margin: 0;
+}
+
+/* Repositories die weggelaten worden: */
+
+#VS-Code-Quick-Tips-and-Tricks-PDF,
+#json-templates,
+#davidvandenbor,
+#playgrounds,
+#snippets,
+#mini2,
+#Twig-Gulp-Foundation-starterkit-for-prototyping,
+#Twig-Gulp-Bower-LibSass-Foundation-Starterkit {
+	display: none !important;
+}
+
+li {
+	list-style-type: none;
+}
+
+li:first-of-type {
+	text-transform: capitalize;
+	/* font-size: 1.9rem; */
+	color: var(--huisstijlkleur);
+	font-weight: 600;
+	margin-bottom: 0.5rem;
+	line-height: 1.3;
+	padding: 0;
+	margin-top: 1rem;
+}
+
+li:first-of-type a {
+	text-decoration: none;
+}
+
+li:nth-of-type(3),
+li:nth-of-type(4) {
+	font-weight: bold;
+}
+
+.reponaam {
+	color: black;
+	font-size: 1.7rem;
+	line-height: 1;
+}
+
+.course li {
+	color: black;
+	margin: 0;
+}
