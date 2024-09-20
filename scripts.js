@@ -20,7 +20,7 @@ fetch("https://api.github.com/users/CMD-Groningen/repos?sort=created&direction=d
                         <li>CMD Coursenaam: <span style="text-transform:uppercase;font-weight:normal">${topics}</span> <br /></li>
                     </span>
                     <li>Link naar Sandbox: <a href="https://githubbox.com/CMD-groningen/${repo.name}" alt="Dit is alle code voor het ${name} project." target="_new">Source code</a></li>
-                    <li>Link naar <a href="${html_url}" title="Dit is de link naar de Github pagina voor ${name}" target="_new">Github Repo</a></li>
+                    <li>Link naar code op <a href="${html_url}" title="Dit is de link naar de Github pagina voor ${name}" target="_new">Github</a></li>
                 </ul>
             `;
 			repositoryList.innerHTML += myTemplate;
