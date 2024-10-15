@@ -109,15 +109,8 @@ ul:nth-child(even) {
 
 /* Repositories die weggelaten worden: */
 
-#VS-Code-Quick-Tips-and-Tricks-PDF,
-#homebase,
-#json-templates,
-#davidvandenbor,
-#playgrounds,
-#snippets,
-#mini2,
-#Twig-Gulp-Foundation-starterkit-for-prototyping,
-#Twig-Gulp-Bower-LibSass-Foundation-Starterkit {
+#.github
+{
 	display: none !important;
 }
 
