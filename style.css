@@ -109,7 +109,7 @@ ul:nth-child(even) {
 
 /* Repositories die weggelaten worden: */
 
-#.github
+#/.github
 {
 	display: none !important;
 }
